@@ -1,0 +1,12 @@
+{
+  "name": "prescription",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "wangmiao <miao.w@linkingcloud.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.1.8",
+    "vuex-persistedstate": "^4.0.0-beta.1"
+  }
+}

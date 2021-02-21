@@ -1,0 +1,37 @@
+{
+  "id": "2251661",
+  "name": "用户端处方",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10707285",
+      "name": "实箭头 上 up",
+      "font_class": "shijiantoushang",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "14818845",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "16031608",
+      "name": "向右",
+      "font_class": "xiangzuo",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "16696922",
+      "name": "实箭头 上 up",
+      "font_class": "shijiantoushang-copy",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}

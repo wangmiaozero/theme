@@ -1,0 +1,67 @@
+$lk-bg:pink;
+
+/* 颜色变量 */
+	/* 行为相关颜色 */
+	$lk-color-primary: #007aff;
+	$lk-color-success: #4cd964;
+	$lk-color-warning: #f0ad4e;
+	$lk-color-error: #dd524d;
+
+	/* 文字基本颜色 */
+	$lk-text-color: #333; //基本色
+	$lk-text-color-inverse: #fff; //反色
+	$lk-text-color-grey: #999; //辅助灰色，如加载更多的提示信息
+	$lk-text-color-placeholder: #808080;
+	$lk-text-color-disable: #c0c0c0;
+
+	/* 背景颜色 */
+	$lk-bg-color: #ffffff;
+	$lk-bg-color-grey: #f8f8f8;
+	$lk-bg-color-hover: #f1f1f1; //点击状态颜色
+	$lk-bg-color-mask: rgba(0, 0, 0, 0.4); //遮罩颜色
+
+	/* 边框颜色 */
+	$lk-border-color: #c8c7cc;
+
+	/* 尺寸变量 */
+
+	/* 文字尺寸 */
+	$lk-font-size-sm: 24upx;
+	$lk-font-size-base: 28upx;
+	$lk-font-size-lg: 32upx;
+
+	/* 图片尺寸 */
+	$lk-img-size-sm: 40upx;
+	$lk-img-size-base: 52upx;
+	$lk-img-size-lg: 80upx;
+
+	/* Border Radius */
+	$lk-border-radius-sm:  4upx;
+	$lk-border-radius-base:  6upx;
+	$lk-border-radius-lg:  12upx;
+	$lk-border-radius-circle: 50%;
+
+	/* 水平间距 */
+	$lk-spacing-row-sm:  10px;
+	$lk-spacing-row-base:  20upx;
+	$lk-spacing-row-lg:  30upx;
+
+	/* 垂直间距 */
+	$lk-spacing-col-sm:  8upx;
+	$lk-spacing-col-base:  16upx;
+	$lk-spacing-col-lg:  24upx;
+
+	/* 透明度 */
+	$lk-opacity-disabled:"0.3"; // 组件禁用态的透明度
+    $lk-transparent-bg: transparent; // 组件禁用态的透明度
+	/* 文章场景相关 */
+	$lk-color-title:  #2C405A; // 文章标题颜色
+	$lk-font-size-title: 40upx;
+	$lk-color-subtitle:  #555555; // 二级标题颜色
+	$lk-font-size-subtitle: 36upx;
+	$lk-color-paragraph:  #3F536E; // 文章段落颜色
+	$lk-font-size-paragraph: 30upx;
+	
+
+    /* 按钮不可点击*/
+    $lk-theme-primary_opacity_disabled:0.5;
